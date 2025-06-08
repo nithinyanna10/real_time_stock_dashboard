@@ -1,0 +1,10 @@
+INFO:root:Total Fetch + Feature Time: 1.06 sec
+WARNING:tensorflow:From C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+INFO:root:Total Fetch + Feature Time: 0.59 sec
+WARNING:tensorflow:From C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+INFO:root:Total Fetch + Feature Time: 0.24 sec
+INFO:root:Total Fetch + Feature Time: 0.42 sec
+WARNING:tensorflow:From C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
