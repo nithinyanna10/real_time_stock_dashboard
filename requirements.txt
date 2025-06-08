@@ -4,3 +4,9 @@ pandas
 scikit-learn
 transformers
 matplotlib
+prophet
+yfinance
+torch
+plotly 
+python-docx
+scikit-learn

@@ -16,3 +16,32 @@ INFO:root:Total Fetch + Feature Time: 0.38 sec
 INFO:root:Total Fetch + Feature Time: 0.38 sec
 INFO:root:Total Fetch + Feature Time: 0.69 sec
 INFO:root:Total Fetch + Feature Time: 0.34 sec
+INFO:root:Total Fetch + Feature Time: 0.55 sec
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:Adding TBB (C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+INFO:prophet:Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\HP\AppData\Local\Temp\tmpsvcukz3f\lkinnmn7.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\HP\AppData\Local\Temp\tmpsvcukz3f\fmb39rk8.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=93145', 'data', 'file=C:\\Users\\HP\\AppData\\Local\\Temp\\tmpsvcukz3f\\lkinnmn7.json', 'init=C:\\Users\\HP\\AppData\\Local\\Temp\\tmpsvcukz3f\\fmb39rk8.json', 'output', 'file=C:\\Users\\HP\\AppData\\Local\\Temp\\tmpsvcukz3f\\prophet_model8p4y4zyg\\prophet_model-20250608180424.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:tensorflow:From C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+INFO:root:Total Fetch + Feature Time: 0.52 sec
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\HP\AppData\Local\Temp\tmpsvcukz3f\dr_hz9_y.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\HP\AppData\Local\Temp\tmpsvcukz3f\ypsnaik3.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=56024', 'data', 'file=C:\\Users\\HP\\AppData\\Local\\Temp\\tmpsvcukz3f\\dr_hz9_y.json', 'init=C:\\Users\\HP\\AppData\\Local\\Temp\\tmpsvcukz3f\\ypsnaik3.json', 'output', 'file=C:\\Users\\HP\\AppData\\Local\\Temp\\tmpsvcukz3f\\prophet_model5i_aqckh\\prophet_model-20250608180502.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:huggingface_hub.file_download:Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+WARNING:tensorflow:From C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
